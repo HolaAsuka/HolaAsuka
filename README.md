@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### ho1aas@MyMacBookAir ~/ % whoami
+### ho1aas@MyMacBookAir ~ % whoami
 - 🧑🏻‍💻 I'm HolaAsuka@ho1aas
 - 📖 CTFer && InfoSec
 - 🔧 CVE-2021-40317 && CVE-2021-34076
