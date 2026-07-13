@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### ~ % whoami
+- 🧑🏻‍💻 I'm HolaAsuka@ho1aas
+- 📖 CTFer && InfoSec
+- 🔧 CVE-2021-40317 && CVE-2021-34076
+
 <!--
 **HolaAsuka/HolaAsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
