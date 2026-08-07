@@ -2,8 +2,13 @@
 
 ### ho1aas@MyMacBookAir ~ % whoami
 - 🧑🏻‍💻 I'm HolaAsuka@ho1aas
-- 📖 CTFer && InfoSec
-- 🔧 CVE-2021-40317 && CVE-2021-34076
+- 🔧 SOC Engineer && CTFer && InfoSec
+
+### ho1aas@MyMacBookAir ~ % ls myCVEs/
+- [CVE-2026-67589](https://lists.apache.org/thread/bs24x4778dh72xtfs299cy8krvdlo47q): Apache Qpid ProtonJ2: Type size/count handling can lead to excessive allocation pre-authentication 
+- [CVE-2021-40317](https://nvd.nist.gov/vuln/detail/CVE-2021-40317): SQL injection in Piwigo 11.5.0
+- [CVE-2021-34076](https://nvd.nist.gov/vuln/detail/CVE-2021-34076): File Upload vulnerability in PHPOK 5.7.140 
+
 
 <!--
 **HolaAsuka/HolaAsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
