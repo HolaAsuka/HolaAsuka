@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### ho1aas@MyMacBookAir ~ % cat .profile
-🧑🏻‍💻USER=HolaAsuka@ho1aas<br/>
-🔧ROLE=SOC Engineer && CTFer && InfoSec<br/>
-🏆TEAM=0x401 Team
+🧑🏻‍💻USER='HolaAsuka@ho1aas'<br/>
+🔧ROLE='SOC Engineer && CTFer && InfoSec'<br/>
+🏆TEAM='0x401 Team'
 
 ### ho1aas@MyMacBookAir ~ % ls myCVEs/
 | CVE ID | INFO | CVSS |
