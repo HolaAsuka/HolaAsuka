@@ -6,11 +6,11 @@
 🏆TEAM='0x401 Team'
 
 ### ho1aas@MyMacBookAir ~ % ls myCVEs/
-| CVE ID | INFO | CVSS |
-|--------|------|:---:|
-| [CVE-2026-67589](https://lists.apache.org/thread/bs24x4778dh72xtfs299cy8krvdlo47q) | Apache Qpid ProtonJ2: Type size/count handling can lead to excessive allocation pre-authentication | 🟡7.5 |
-| [CVE-2021-40317](https://nvd.nist.gov/vuln/detail/CVE-2021-40317) | Piwigo 11.5.0 SQL injection vulnerability | 🟢6.3 |
-| [CVE-2021-34076](https://nvd.nist.gov/vuln/detail/CVE-2021-34076) | PHPOK 5.7.140 File Upload vulnerability | 🔴8.8 |
+| CVE ID | INFO | CVSS | Ref |
+|--------|------|:---:|---|
+| [CVE-2026-67589](https://nvd.nist.gov/vuln/detail/CVE-2026-67589) | Apache Qpid ProtonJ2: Type size/count handling can lead to excessive allocation pre-authentication | 🟡7.5 |[1](https://lists.apache.org/thread/bs24x4778dh72xtfs299cy8krvdlo47q),[2](https://security.apache.org/projects/qpid/#CVE-2026-67589)|
+| [CVE-2021-40317](https://nvd.nist.gov/vuln/detail/CVE-2021-40317) | Piwigo 11.5.0 SQL injection vulnerability | 🟢6.3 ||
+| [CVE-2021-34076](https://nvd.nist.gov/vuln/detail/CVE-2021-34076) | PHPOK 5.7.140 File Upload vulnerability | 🔴8.8 ||
 
 
 <!--
