@@ -8,9 +8,11 @@
 ### ho1aas@MyMacBookAir ~ % ls myCVEs/
 | CVE ID | INFO | CVSS | Ref |
 |--------|------|:---:|:--:|
-| [CVE-2026-67589](https://nvd.nist.gov/vuln/detail/CVE-2026-67589) | Apache Qpid ProtonJ2: Type size/count handling can lead to excessive allocation pre-authentication | 🟡7.5 |[1️⃣](https://security.apache.org/projects/qpid/#CVE-2026-67589)|
-| [CVE-2021-40317](https://nvd.nist.gov/vuln/detail/CVE-2021-40317) | Piwigo 11.5.0 SQL injection vulnerability | 🟢6.3 |[1️⃣](https://github.com/advisories/GHSA-x322-xc54-ggg3)|
-| [CVE-2021-34076](https://nvd.nist.gov/vuln/detail/CVE-2021-34076) | PHPOK 5.7.140 File Upload vulnerability | 🔴8.8 |-|
+| [CVE‑2026‑76983](https://nvd.nist.gov/vuln/detail/CVE-2026-76983) | Apache Wicket: XSS in AutoLabelTextResolver via FormComponent.setLabel |-|-|
+| [CVE‑2026‑75802](https://nvd.nist.gov/vuln/detail/CVE-2026-75802) | Apache Wicket: XSS in AjaxEditableLabel and its subclasses via IChoiceRenderer and defaultNullLabel |-|-|
+| [CVE‑2026‑67589](https://nvd.nist.gov/vuln/detail/CVE-2026-67589) | Apache Qpid ProtonJ2: Type size/count handling can lead to excessive allocation pre‑authentication | 🟡7.5 |[1️⃣](https://security.apache.org/projects/qpid/#CVE-2026-67589)|
+| [CVE‑2021‑40317](https://nvd.nist.gov/vuln/detail/CVE-2021-40317) | Piwigo 11.5.0 SQL Injection vulnerability | 🟢6.3 |[1️⃣](https://github.com/advisories/GHSA-x322-xc54-ggg3)|
+| [CVE‑2021‑34076](https://nvd.nist.gov/vuln/detail/CVE-2021-34076) | PHPOK 5.7.140 File Upload vulnerability | 🔴8.8 |-|
 
 
 <!--
