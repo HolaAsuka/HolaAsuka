@@ -8,6 +8,7 @@
 ### ho1aas@MyMacBookAir ~ % ls myCVEs/
 | CVE ID | INFO | CVSS | Ref |
 |-----|-----|:---:|:---:|
+| [CVE-2026-86460](https://www.cve.org/CVERecord?id=CVE-2026-86460) | Apache Syncope: Cypher Injection via FIQL Search on Neo4j Persistence | 🔴&#8205;9.8 | - |
 | [CVE-2026-77051](https://www.cve.org/CVERecord?id=CVE-2026-77051) | Apache Syncope: SQL injection via unsanitized entityKey and opEvent in Audit Events search | 🔴&#8205;9.8 | - |
 | [CVE‑2026‑76983](https://www.cve.org/CVERecord?id=CVE-2026-76983) | Apache Wicket: XSS in AutoLabelTextResolver via FormComponent.setLabel | 🟡&#8205;5.1(4.0) | [1️⃣](https://security.apache.org/projects/wicket/#CVE-2026-76983) |
 | [CVE‑2026‑75802](https://www.cve.org/CVERecord?id=CVE-2026-75802) | Apache Wicket: XSS in AjaxEditableLabel and its subclasses via IChoiceRenderer and defaultNullLabel | 🟡&#8205;5.1(4.0) | [1️⃣](https://security.apache.org/projects/wicket/#CVE-2026-75802) |
