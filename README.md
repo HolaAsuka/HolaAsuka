@@ -8,6 +8,7 @@
 ### ho1aas@MyMacBookAir ~ % ls myCVEs/
 | CVE ID | INFO | CVSS | Ref |
 |-----|-----|:---:|:---:|
+| [CVE-2026-93995](https://www.cve.org/CVERecord?id=CVE-2026-93995) | Apache MINA SSHD: Remote execution of JGit "archive -o=file.zip" can write file on the server | [🟡&#8205;6.5](https://nvd.nist.gov/vuln/detail/cve-2026-93995) | - |
 | [CVE-2026-86460](https://www.cve.org/CVERecord?id=CVE-2026-86460) | Apache Syncope: Cypher Injection via FIQL Search on Neo4j Persistence | [🔴&#8205;9.8](https://nvd.nist.gov/vuln/detail/cve-2026-86460) | [1️⃣](https://security.apache.org/projects/syncope/#CVE-2026-86460) |
 | [CVE-2026-77051](https://www.cve.org/CVERecord?id=CVE-2026-77051) | Apache Syncope: SQL injection via unsanitized entityKey and opEvent in Audit Events search | [🔴&#8205;9.8](https://nvd.nist.gov/vuln/detail/cve-2026-77051) | [1️⃣](https://security.apache.org/projects/syncope/#CVE-2026-77051) |
 | [CVE‑2026‑76983](https://www.cve.org/CVERecord?id=CVE-2026-76983) | Apache Wicket: XSS in AutoLabelTextResolver via FormComponent.setLabel | [🟡&#8205;5.1(4.0)<br/>🟡&#8205;5.4](https://nvd.nist.gov/vuln/detail/cve-2026-76983) | [1️⃣](https://security.apache.org/projects/wicket/#CVE-2026-76983) |
