@@ -8,6 +8,8 @@
 ### ho1aas@MyMacBookAir ~ % ls myCVEs/
 | CVE ID | INFO | CVSS | Ref |
 |-----|-----|:---:|:---:|
+| [CVE-2026-94053](https://www.cve.org/CVERecord?id=CVE-2026-94053) | Apache MINA SSHD: LDAP injection in sshd-ldap | [🔴&#8205;9.1](https://nvd.nist.gov/vuln/detail/cve-2026-94053) | [1️⃣](https://security.apache.org/projects/mina/#CVE-2026-94053) |
+| [CVE-2026-94052](https://www.cve.org/CVERecord?id=CVE-2026-94052) | Apache MINA SSHD: LDAP password authentication | [🔴&#8205;9.1](https://nvd.nist.gov/vuln/detail/cve-2026-94052) | [1️⃣](https://security.apache.org/projects/mina/#CVE-2026-94052) |
 | [CVE-2026-93995](https://www.cve.org/CVERecord?id=CVE-2026-93995) | Apache MINA SSHD: Remote execution of JGit "archive -o=file.zip" can write file on the server | [🟡&#8205;6.5](https://nvd.nist.gov/vuln/detail/cve-2026-93995) | - |
 | [CVE-2026-86460](https://www.cve.org/CVERecord?id=CVE-2026-86460) | Apache Syncope: Cypher Injection via FIQL Search on Neo4j Persistence | [🔴&#8205;9.8](https://nvd.nist.gov/vuln/detail/cve-2026-86460) | [1️⃣](https://security.apache.org/projects/syncope/#CVE-2026-86460) |
 | [CVE-2026-85532](https://www.cve.org/CVERecord?id=CVE-2026-85532) | Apache WSS4J: Insufficient Validation of Derived-Key Parameters | [🔴&#8205;7.5](https://nvd.nist.gov/vuln/detail/cve-2026-85532) | [1️⃣](https://security.apache.org/projects/ws/#CVE-2026-85532) [2️⃣](https://ws.apache.org/wss4j/advisories/CVE-2026-85532.txt) |
