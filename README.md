@@ -34,6 +34,9 @@
 | Apache SIS: CWE-918 SSRF and local-file disclosure via xlink:href resolution during XML unmarshalling |[1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: CWE-918 SSRF via datum-shift grid-file references such as URI parameter in WKT | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: CWE-22 path traversal / arbitrary file read via Landsat metadata band filenames | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
+| Apache Thrift: Reported OCaml length limits issue (fixed in faa1dee93, no advisory) | [1️⃣](https://github.com/apache/thrift/commit/faa1dee93) |
+| Apache Thrift: Reported Smalltalk string length bound issue (fixed in 8e3a6de69, no advisory) | [1️⃣](https://github.com/apache/thrift/commit/8e3a6de69) |
+| Apache Thrift: Reported Java SASL negotiation bound issue (fixed in 827236ca2, no advisory) | [1️⃣](https://github.com/apache/thrift/commit/827236ca2) |
 
 <!--
 **HolaAsuka/HolaAsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
