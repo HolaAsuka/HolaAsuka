@@ -2,8 +2,8 @@
 
 ### ho1aas@MyMacBookAir ~ % cat .profile
 <pre>
-🧑🏻‍💻USER='HolaAsuka@ho1aas'
-🔧ROLE='SOC Engineer && CTFer && InfoSec'
+🧑🏻‍💻USER='ho1aas@HolaAsuka'
+🔧ROLE='Cloud SOC Engineer && Former Web Security Engineer && CTFer && InfoSec'
 🏆TEAM='0x401 Team'
 </pre>
 
@@ -36,7 +36,7 @@
 | [CVE‑2026‑76983](https://www.cve.org/CVERecord?id=CVE-2026-76983) | Apache Wicket: XSS in AutoLabelTextResolver via FormComponent.setLabel | [🟡&#8205;5.4](https://nvd.nist.gov/vuln/detail/cve-2026-76983) | [1️⃣](https://security.apache.org/projects/wicket/#CVE-2026-76983) |
 | [CVE‑2026‑75802](https://www.cve.org/CVERecord?id=CVE-2026-75802) | Apache Wicket: XSS in AjaxEditableLabel and its subclasses via IChoiceRenderer and defaultNullLabel | [🟡&#8205;5.4](https://nvd.nist.gov/vuln/detail/cve-2026-75802) | [1️⃣](https://security.apache.org/projects/wicket/#CVE-2026-75802) |
 | [CVE‑2026‑67589](https://www.cve.org/CVERecord?id=CVE-2026-67589) | Apache Qpid ProtonJ2: Type size/count handling can lead to excessive allocation pre‑authentication | [🟡&#8205;7.5](https://nvd.nist.gov/vuln/detail/cve-2026-67589) |[1️⃣](https://security.apache.org/projects/qpid/#CVE-2026-67589)|
-| [CVE‑2026‑41114](https://www.cve.org/CVERecord?id=CVE-2026-41114) | Apache IoTDB JDBC driver: Large-scale Memory Exhaustion via BigDecimal toPlainString in JDBC Driver | - |-|
+| [CVE‑2026‑41114](https://www.cve.org/CVERecord?id=CVE-2026-41114) | Apache IoTDB JDBC driver: Large-scale Memory Exhaustion via BigDecimal toPlainString in JDBC Driver | - | [1️⃣](https://security.apache.org/projects/iotdb/#CVE-2026-41114) |
 | [CVE‑2021‑40317](https://www.cve.org/CVERecord?id=CVE-2021-40317) | Piwigo 11.5.0 SQL Injection vulnerability | [🔴&#8205;8.8](https://nvd.nist.gov/vuln/detail/cve-2021-40317) |[1️⃣](https://github.com/advisories/GHSA-x322-xc54-ggg3)|
 | [CVE‑2021‑34076](https://www.cve.org/CVERecord?id=CVE-2021-34076) | PHPOK 5.7.140 File Upload vulnerability | [🔴&#8205;8.8](https://nvd.nist.gov/vuln/detail/cve-2021-34076) | - |
 
