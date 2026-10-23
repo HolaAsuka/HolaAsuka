@@ -13,6 +13,7 @@
 ### ho1aas@MyMacBookAir ~ % cat myCVEs
 | CVE ID | INFO | CVSS | REF |
 |-----|-----|:---:|:---:|
+| [CVE-&#8205;2026-&#8205;115748](https://www.cve.org/CVERecord?id=CVE-2026-115748) | Apache Vysper: Authorization bypass | [🔴&#8205;8.8](https://nvd.nist.gov/vuln/detail/cve-2026-115748) | [1️⃣](https://www.openwall.com/lists/oss-security/2026/10/23/21) |
 | [CVE-2026-94635](https://www.cve.org/CVERecord?id=CVE-2026-94635) | Apache Thrift: Lua `TBinaryProtocol:readMessageBegin` bypasses `checkStringSize` on the pre-versioned name | [🔴&#8205;8.7](https://nvd.nist.gov/vuln/detail/cve-2026-94635) | [1️⃣](https://security.apache.org/projects/thrift/#CVE-2026-94635) [2️⃣](https://www.openwall.com/lists/oss-security/2026/10/04/1) |
 | [CVE-2026-94634](https://www.cve.org/CVERecord?id=CVE-2026-94634) | Apache Thrift: Python `TJSONProtocol` has a string length limit that is off by default | [🔴&#8205;8.2](https://nvd.nist.gov/vuln/detail/cve-2026-94634) | [1️⃣](https://security.apache.org/projects/thrift/#CVE-2026-94634) [2️⃣](https://www.openwall.com/lists/oss-security/2026/10/04/1) |
 | [CVE-2026-94633](https://www.cve.org/CVERecord?id=CVE-2026-94633) | Apache Thrift: Dart `TBinaryProtocol.readMessageBegin` allocates from the pre-versioned name length | [🔴&#8205;8.7](https://nvd.nist.gov/vuln/detail/cve-2026-94633) | [1️⃣](https://security.apache.org/projects/thrift/#CVE-2026-94633) [2️⃣](https://www.openwall.com/lists/oss-security/2026/10/04/1) |
