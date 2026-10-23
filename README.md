@@ -3,7 +3,7 @@
 ### ho1aas@MyMacBookAir ~ % cat .profile
 <pre>
 🧑🏻‍💻USER='ho1aas@HolaAsuka'
-🔧ROLE='Cloud SOC Engineer && Former Web Security Engineer && CTFer && InfoSec'
+🔧ROLE='Cloud SOC Engineer && Former Web Security Engineer && CVE Reporter(finder) && CTFer && InfoSec'
 🏆TEAM='0x401 Team'
 </pre>
 
