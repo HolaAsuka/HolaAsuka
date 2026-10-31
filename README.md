@@ -46,6 +46,7 @@
 ### ho1aas@MyMacBookAir ~ % cat myCredits
 | CREDIT INFO | REF |
 |---|:---:|
+| Apache SIS: SQL injection on MySQL/MariaDB via missing backslash escaping issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: Reported CWE-918 SSRF and local-file disclosure via xlink:href resolution during XML unmarshalling issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: Reported CWE-918 SSRF via datum-shift grid-file references such as URI parameter in WKT issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: Reported CWE-22 path traversal / arbitrary file read via Landsat metadata band filenames issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
