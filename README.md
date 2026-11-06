@@ -47,6 +47,7 @@
 ### ho1aas@MyMacBookAir ~ % cat myCredits
 | CREDIT INFO | REF |
 |---|:---:|
+| Apache OpenJPA: [OPENJPA-3057] Slice target hint and QueryTargetPolicy are ignored by bulk UPDATE and native bulk statements issue | [1️⃣](https://github.com/apache/openjpa/pull/253) |
 | Apache SIS: SQL injection on MySQL/MariaDB via missing backslash escaping issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: Reported CWE-918 SSRF and local-file disclosure via xlink:href resolution during XML unmarshalling issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
 | Apache SIS: Reported CWE-918 SSRF via datum-shift grid-file references such as URI parameter in WKT issue | [1️⃣](https://sis.apache.org/release-notes/1.7.html#security) |
